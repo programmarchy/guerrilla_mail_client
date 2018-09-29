@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'guerrilla_mail_client'
-  s.version     = '0.0.1'
+  s.version     = '0.1.0'
   s.licenses    = ['MIT']
   s.summary     = 'A client for the Guerrilla Mail API'
   s.description = 'Avoid spam and stay safe with Guerrilla Mail disposable temporary email addresses. This gem has no dependencies.'
